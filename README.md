@@ -69,14 +69,6 @@ AI systems, DSA, system design, or building end-to-end products
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat_singla&theme=tokyonight" />
-</p>
-
----
-
 ## 🐍 Contribution Graph
 
 <div align="center">
